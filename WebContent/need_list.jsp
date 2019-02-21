@@ -90,8 +90,8 @@ section  .alertDiv-add{
    </table> 
    </div>
    <div class="inpage">分页预留位置</div>
-   <footer>CopyRight &copy; 2018 创睿信教育集团 <br> <br>
-   Powered by Teacher Lei版权所有  
+   <footer>CopyRight &copy; 2018<br> <br>
+
    </footer>
    
    <!-- 弹出层  --> 
